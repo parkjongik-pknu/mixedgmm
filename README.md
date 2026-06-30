@@ -21,7 +21,7 @@ library(gmm_mixed)
 In **GMM**
 
 ```
-gmm_mixed(X_Q, X_W, X_D, K)
+gmm_mixed(X_Q = NULL, X_W = NULL, X_D = NULL, K = 3)
 
 X_Q : continuous variables
 
