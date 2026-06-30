@@ -18,7 +18,6 @@ library(mixedgmm)
 
 * **HOW TO USE:**
 
-In **GMM**
 
 ```
 gmm_mixed(X_Q = NULL, X_W = NULL, X_D = NULL, K = 3)
